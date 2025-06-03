@@ -1,0 +1,24 @@
+@import "tailwindcss";
+body {
+    font-family: "Roboto", serif;
+}
+
+.text-bg-top {
+    color: #2E5077;
+}
+.text-bg-secondary {
+    color: #4DA1A9,
+    
+    #F5EEDD,
+#7AE2CF,
+#077A7D,
+#06202B;
+    
+}
+.text-ch-tertiary {
+    color: #40917b;
+    color: #79D7BE;
+}
+.text-ch-quaternary {
+    color: #F6F4F0;
+}
